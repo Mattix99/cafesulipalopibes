@@ -1,0 +1,74 @@
+{
+  "cafes": [
+    {
+      "id": 1,
+      "nombre": "Café Espresso",
+      "descripcion": "Un café concentrado preparado al forzar agua caliente a través de granos de café finamente molidos.",
+      "imagen_url": "https://i.imgur.com/PszvUFu.jpg",
+      "precio_promedio": 2.5,
+      "procedencia": "Italia",
+      "intensidad": "Fuerte",
+      "notas_de_sabor": "Amargo y robusto"
+    },
+    {
+      "id": 2,
+      "nombre": "Café Latte",
+      "descripcion": "Un café con leche caliente y una pequeña cantidad de espuma de leche.",
+      "imagen_url": "https://i.imgur.com/9q4ci5b.jpg",
+      "precio_promedio": 3.0,
+      "procedencia": "Varios orígenes",
+      "intensidad": "Suave",
+      "notas_de_sabor": "Dulce y cremoso"
+    },
+    {
+      "id": 3,
+      "nombre": "Cappuccino",
+      "descripcion": "Un café con partes iguales de espresso, leche y espuma de leche.",
+      "imagen_url": "https://i.imgur.com/aV4az1P.jpg",
+      "precio_promedio": 3.5,
+      "procedencia": "Italia",
+      "intensidad": "Moderada",
+      "notas_de_sabor": "Equilibrado y suave"
+    },
+    {
+      "id": 4,
+      "nombre": "Mocha",
+      "descripcion": "Un café con leche, espresso y chocolate.",
+      "imagen_url": "https://i.imgur.com/MQOduzw.jpg",
+      "precio_promedio": 4.0,
+      "procedencia": "Varios orígenes",
+      "intensidad": "Moderada",
+      "notas_de_sabor": "Chocolate y café"
+    },
+    {
+      "id": 5,
+      "nombre": "Café Americano",
+      "descripcion": "Un café diluido con agua caliente, similar al espresso pero más suave.",
+      "imagen_url": "https://i.imgur.com/Q1lmTsS.jpg",
+      "precio_promedio": 2.0,
+      "procedencia": "Varios orígenes",
+      "intensidad": "Suave",
+      "notas_de_sabor": "Suave y ligero"
+    },
+    {
+      "id": 6,
+      "nombre": "Café Frappé",
+      "descripcion": "Un café helado mezclado con hielo y azúcar, a menudo con crema batida en la parte superior.",
+      "imagen_url": "https://i.imgur.com/X8KWBEG.jpg",
+      "precio_promedio": 4.5,
+      "procedencia": "Varios orígenes",
+      "intensidad": "Moderada",
+      "notas_de_sabor": "Dulce y refrescante"
+    },
+    {
+      "id": 7,
+      "nombre": "Café Macchiato",
+      "descripcion": "Un espresso con una pequeña cantidad de leche espumada o leche caliente.",
+      "imagen_url": "https://i.imgur.com/sD4ykUY.jpg",
+      "precio_promedio": 3.2,
+      "procedencia": "Italia",
+      "intensidad": "Fuerte",
+      "notas_de_sabor": "Fuerte y suave"
+    }
+  ]
+}
